@@ -1,2 +1,17 @@
 ﻿body {
 }
+nav#navvy.navbar.navbar-static-top{
+    margin-bottom:0px;
+    background-color:#4A5257;
+    
+}
+#navvy a {
+    color:#D8EFFC;
+}
+/*BUTTON*/
+button.navbar-toggle{
+    border:1px solid #D8EFFC;
+}
+span.icon-bar{
+    border:1px solid #D8EFFC;
+}
