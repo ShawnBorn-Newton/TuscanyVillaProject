@@ -15,3 +15,18 @@ button.navbar-toggle{
 span.icon-bar{
     border:1px solid #D8EFFC;
 }
+/*LOCATION*/
+.jumbotron{
+    margin:0px;
+    padding:0px;
+}
+#map{
+    display:block;
+     padding:0px;
+     height:410px;
+}
+#imgLoc{
+
+    padding:0px;
+    height:410px;
+}
