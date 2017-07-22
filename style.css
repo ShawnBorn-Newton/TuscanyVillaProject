@@ -88,5 +88,10 @@ span.icon-bar {
     margin-right:0px;
     padding: 0px;
     width: 350px;
-
+}
+.amenities{
+    margin:auto;
+}
+.thumText{
+    text-align:center;
 }
