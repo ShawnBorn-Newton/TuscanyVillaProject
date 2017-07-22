@@ -1,32 +1,92 @@
 ﻿body {
+    background-color: antiquewhite;
 }
-nav#navvy.navbar.navbar-static-top{
-    margin-bottom:0px;
-    background-color:#4A5257;
-    
+
+nav#navvy.navbar.navbar-static-top {
+    margin-bottom: 0px;
+    background-color: #4A5257;
 }
+
 #navvy a {
-    color:#D8EFFC;
+    color: #D8EFFC;
 }
 /*BUTTON*/
-button.navbar-toggle{
-    border:1px solid #D8EFFC;
+button.navbar-toggle {
+    border: 1px solid #D8EFFC;
 }
-span.icon-bar{
-    border:1px solid #D8EFFC;
+
+span.icon-bar {
+    border: 1px solid #D8EFFC;
 }
 /*LOCATION*/
-.jumbotron{
-    margin:0px;
-    padding:0px;
+.jumbotron {
+    margin: 0px;
+    padding: 0px;
 }
-#map{
-    display:block;
-     padding:0px;
-     height:410px;
-}
-#imgLoc{
 
-    padding:0px;
-    height:410px;
+#map {
+    display: block;
+    padding: 0px;
+    height: 410px;
+}
+
+#imgLoc {
+    padding: 0px;
+    height: 410px;
+}
+
+.banner {
+    text-align: center;
+    color: #D8EFFC;
+    background-color: #4A5257;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    padding: 0px;
+    height: 100px;
+}
+
+#zeroMargon {
+    margin: 0px;
+}
+
+#localImgOne {
+    margin: 0px;
+    padding: 0px;
+    width: 350px;
+
+}
+
+.localOne {
+    background-color: antiquewhite;
+    margin-top:25px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+    padding: 0px;
+}
+
+#blurbOne {
+    text-align: left;
+    text-align: justify;
+}
+
+.jumboTwo {
+    background-color: #4A5257;
+}
+
+.localTwo {
+    color:antiquewhite;
+    background-color: #4A5257;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#localImgTwo {
+    margin-top:25px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+    padding: 0px;
+    width: 350px;
+
 }
