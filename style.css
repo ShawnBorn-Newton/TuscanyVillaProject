@@ -46,7 +46,7 @@ span.icon-bar {
 }
 
 #zeroMargon {
-    margin: 0px;
+    margin:0px;
 }
 
 #localImgOne {
@@ -94,4 +94,11 @@ span.icon-bar {
 }
 .thumText{
     text-align:center;
+}
+#backPlate{
+    height:300px;
+    width:1200px;
+}
+#captLetters{
+    color:#4A5257;
 }
