@@ -43,6 +43,7 @@ span.icon-bar {
     margin-bottom: 25px;
     padding: 0px;
     height: 100px;
+    font-family: 'Sanchez', serif;
 }
 
 #zeroMargon {
@@ -63,6 +64,7 @@ span.icon-bar {
     margin-left:0px;
     margin-right:0px;
     padding: 0px;
+    font-family: 'Domine', serif;
 }
 
 #blurbOne {
@@ -79,7 +81,7 @@ span.icon-bar {
     background-color: #4A5257;
     margin: 0px;
     padding: 0px;
-    
+    font-family: 'Domine', serif;
 }
 #localImgTwo {
     margin-top:25px;
@@ -92,8 +94,36 @@ span.icon-bar {
 .amenities{
     margin:auto;
 }
+.thumbnail{
+    position:relative;
+    background-color:antiquewhite;
+    border:none;
+}
+.insideCaption{
+    position:absolute;
+    top:45%;
+    left:0px;
+    width:100%;
+    color:white;
+    font-family: 'Bitter', serif;
+}
 .thumText{
     text-align:center;
+    font-family: 'Bitter', serif;
+}
+.btnStyle{
+    background-color:#4A5257;
+}
+.revBanner{
+    text-align: center;
+    color: #D8EFFC;
+    background-color: #4A5257;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    padding: 0px;
+    height: 125px;
+    width:1600px;
+    font-family: 'Sanchez', serif;
 }
 #backPlate{
     height:300px;
@@ -101,4 +131,28 @@ span.icon-bar {
 }
 #captLetters{
     color:#4A5257;
+}
+
+.contact {
+background:#4A5257;
+color:antiquewhite;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
+.footer{
+    text-align: center;
+    color: #D8EFFC;
+    background-color: #4A5257;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    height: 125px;
+    font-family: 'Sanchez', serif;
 }
