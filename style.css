@@ -91,6 +91,7 @@ span.icon-bar {
     padding: 0px;
     width: 350px;
 }
+/*AMENITIES*/
 .amenities{
     margin:auto;
 }
@@ -114,6 +115,7 @@ span.icon-bar {
 .btnStyle{
     background-color:#4A5257;
 }
+/*CAROUSEL*/
 .revBanner{
     text-align: center;
     color: #D8EFFC;
@@ -132,6 +134,7 @@ span.icon-bar {
 #captLetters{
     color:#4A5257;
 }
+/*CONTACT*/
 
 .contact {
 background:#4A5257;
@@ -146,6 +149,7 @@ color: #FFF;
 .h1 small {
 font-size: 24px;
 }
+/*FOOTER*/
 .footer{
     text-align: center;
     color: #D8EFFC;
